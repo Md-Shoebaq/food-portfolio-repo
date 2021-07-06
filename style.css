@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+
+#gray {
+    color: gray;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.half-width h1 {
+    width: 90%;
+}
+
+.order-food {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orangered, tomato);
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-weight: 400;
+}
+
+.top-banner {
+
+    background-color: thistle;
+    box-shadow: 0px 0px 10px;
+
+    back
+}
