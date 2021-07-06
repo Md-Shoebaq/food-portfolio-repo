@@ -68,11 +68,29 @@ span {
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 5px 5px 5px 5px gray;
-
+    padding-right: 3%;
     border-radius: 10px;
 }
 
 .cover img {
     padding-top: 10px;
 
+}
+
+.food {
+    text-align: center;
+    color: gray;
+    background-color: black;
+    padding-bottom: 3%;
+    margin-top: 3%;
+    padding-top: 3%;
+}
+
+.href {
+    text-decoration: none;
+    color: orange;
+}
+
+.color {
+    color: slategray;
 }
