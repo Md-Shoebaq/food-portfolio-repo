@@ -15,7 +15,7 @@ span {
     color: gray;
 }
 
-section {
+.project {
     display: flex;
 }
 
@@ -44,16 +44,37 @@ section {
 .top-banner {
     background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
 .about {
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
 .recipies {
     text-align: center;
     padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
 }
+
+.cover {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 5px 5px gray;
+
+    border-radius: 10px;
+}
+
+.cover img {
+    padding-top: 10px;
+
+}
+
+.social {}
