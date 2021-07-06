@@ -53,7 +53,10 @@ span {
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-position: center;
+}
 
+.about img {
+    width: 45%;
 }
 
 .recipies {
@@ -97,5 +100,9 @@ span {
 }
 
 .text {
-    padding-top: 10%;
+    padding-top: 20%;
+}
+
+.modified {
+    width: 60%;
 }
