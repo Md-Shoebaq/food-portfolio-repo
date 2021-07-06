@@ -42,9 +42,13 @@ section {
 }
 
 .top-banner {
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
 
-    background-color: thistle;
-    box-shadow: 0px 0px 10px;
+}
 
-    back
+.about {
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+
 }
